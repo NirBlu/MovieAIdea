@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "105804168127",
+    "firebase_url": "https://frameforge-7288a-default-rtdb.firebaseio.com",
+    "project_id": "frameforge-7288a",
+    "storage_bucket": "frameforge-7288a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105804168127:android:913b34a09201f5c756ff0a",
+        "android_client_info": {
+          "package_name": "com.movieaidea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUvBC7KcXy3nwvr9TWl9t_fwi4ENG4lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
