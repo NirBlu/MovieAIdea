@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAhUvBC7KcXy3nwvr9TWl9t_fwi4ENG4lQ',
+    apiKey: 'Please Place Firebase API here',
     appId: '1:105804168127:android:913b34a09201f5c756ff0a',
     messagingSenderId: '105804168127',
     projectId: 'frameforge-7288a',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyArtc0HydPkui6cqWmI1L77_KCiJKUKoGg',
+    apiKey: 'Please Place Firebase API here',
     appId: '1:105804168127:ios:283ff132ddc3189456ff0a',
     messagingSenderId: '105804168127',
     projectId: 'frameforge-7288a',
