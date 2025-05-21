@@ -24,6 +24,9 @@ View Screenshots from Movie AIdea:
 | ![Screenshot 5](screenshots/MovieAIdea5.jpg) | ![Screenshot 6](screenshots/MovieAIdea6.jpg) |
 | ![Screenshot 7](screenshots/MovieAIdea7.jpg) | ![Screenshot 8](screenshots/MovieAIdea8.jpg) |
 
+## Link To Youtube Gemini Submission
+[YouTube]https://www.youtube.com/watch?v=hFIqlfoXVnA
+
 ## Getting Started
 
 ### Prerequisites
